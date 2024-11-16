@@ -18,15 +18,15 @@ personas = [
 # 7. Obtener el promedio de edades
 # Escribe una función que calcule y devuelva el promedio de las edades de todas las personas en la lista.
 
-def promedioEdades ():
-  promedioEdades=0
-  totalEdades=0
-  for persona in personas:
-    totalEdades+=persona["edad"]
-  promedioEdades=totalEdades/len(personas)    
-  return promedioEdades
+# def promedioEdades ():
+#   promedioEdades=0
+#   totalEdades=0
+#   for persona in personas:
+#     totalEdades+=persona["edad"]
+#   promedioEdades=totalEdades/len(personas)    
+#   return promedioEdades
 
-print (promedioEdades())
+# print (promedioEdades())
 
 
 
